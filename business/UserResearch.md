@@ -27,7 +27,7 @@ Observations 3:
 Observation 4:
 - Observation Statement:
   - Many people find that a gamification elements in a flash card app important
--Supporting Data:
+- Supporting Data:
   - 63.3% of potential users indicated that gamification elements to be an important feature.
--Team Actions:
+- Team Actions:
   - We discussed a potential way to implement gamifiction could be to awards points based on results of a practice session and have a learners leader board.
