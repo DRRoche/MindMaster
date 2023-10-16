@@ -14,5 +14,12 @@ Oberservation 2:
   - 18.2% of respondants answered that they were at a 2 with how satisfied they were with flash card apps.
   - 27.3% of respondants answered that they were at a 2 with how satisfied they were with flash card apps.
 - Team Action: 
-  - Are team now knows that there is a potential market for our app amongst our target demographic.
-  
+  - our team now knows that there is a potential market for our app amongst our target demographic.
+
+Observations 3:
+- Observation Statement:
+  - one of the most important features of a flashcard application to users is to be able to use it offline
+- Supporting Data:
+  - 63.3% of respondants selected offline access as a feture they believe is most important
+- Team Action:
+  - Allow users to access their study sets offline through possibly download or an offline mode with milited functionality.
