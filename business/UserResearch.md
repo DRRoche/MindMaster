@@ -23,3 +23,11 @@ Observations 3:
   - 63.3% of respondants selected offline access as a feture they believe is most important
 - Team Action:
   - Allow users to access their study sets offline through possibly download or an offline mode with milited functionality.
+
+Observation 4:
+- Observation Statement:
+  - Many people find that a gamification elements in a flash card app important
+-Supporting Data:
+  - 63.3% of potential users indicated that gamification elements to be an important feature.
+-Team Actions:
+  - We discussed a potential way to implement gamifiction could be to awards points based on results of a practice session and have a learners leader board.
