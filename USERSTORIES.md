@@ -20,3 +20,12 @@ US 4: As a general user of Mind Master I want to be able to generate quick quizz
 Acceptance criteria:
 - User can generate a quiz using all available flash cards
 - User can customize quiz by mixing and matching individual cards or groups of cards(decks)
+
+
+
+
+
+US 6: As a general user of Mind Master I want to be able to edit the flash cards I created.
+Acceptance criteria:
+ -User can click a button on their card to edit the contents
+ -User can click a button on their card to save the changes they just made.
