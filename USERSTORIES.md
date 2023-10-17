@@ -20,3 +20,8 @@ US 4: As a general user of Mind Master I want to be able to generate quick quizz
 Acceptance criteria:
 - User can generate a quiz using all available flash cards
 - User can customize quiz by mixing and matching individual cards or groups of cards(decks)
+
+US 5: as a user I should be able to interact with the app in an understandable and visualy appealing fashion
+- decide on a color scheme for the app that is visualy appealing and fitting for our function
+- design and agree on the layout of the different screens of the app (log in, initial menu, create cards screen, flashcards screen, etc...)
+- if two designs are made for a screen then vote for which is prefered for any conflict
