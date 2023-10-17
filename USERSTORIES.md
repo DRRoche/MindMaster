@@ -25,3 +25,9 @@ US 5: as a user I should be able to interact with the app in an understandable a
 - decide on a color scheme for the app that is visualy appealing and fitting for our function
 - design and agree on the layout of the different screens of the app (log in, initial menu, create cards screen, flashcards screen, etc...)
 - if two designs are made for a screen then vote for which is prefered for any conflict
+
+US 6: As a general user of Mind Master I want to be able to edit the flash cards I created.
+Acceptance criteria:
+ - User can click a button on their card to edit the contents
+ - User can click a button on their card to save the changes they just made.
+
