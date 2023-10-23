@@ -1,0 +1,190 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": []
+                }
+            },
+            "assets": {},
+            "backendUpgradeVersion": 22,
+            "blockly": {
+                "9cd5c5f7-debc-44fd-a9e0-f55a44082bef": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "aa83e27d-01ef-4d26-bbed-2243d65429d5": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
+            },
+            "categories": [
+                "Education"
+            ],
+            "components": {
+                "children": [
+                    {
+                        "id": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef"
+                    },
+                    {
+                        "id": "aa83e27d-01ef-4d26-bbed-2243d65429d5"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "Mind Master",
+            "settings": {
+                "teamId": null,
+                "appName": "MindMaster",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyBWp3bl4En_87SLA5UG5OAERE3k4rrjRlI",
+                "firebaseDatabaseURL": "https://mindmaster-6bc53-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": "MindMaster",
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyBWp3bl4En_87SLA5UG5OAERE3k4rrjRlI",
+                "firebaseDatabaseURL": "https://mindmaster-6bc53-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "0",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {
+                "34ddbc14-b703-4d03-a8e2-e5a915ce5b26": {
+                    "scope": "APP",
+                    "name": "currentlySigningUp",
+                    "screenId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef"
+                },
+                "51d6af8d-b648-46be-aa39-be37718e8f40": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef"
+                },
+                "323c09c4-1228-4e5b-b156-668781956ff0": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef"
+                },
+                "94c5eeb9-d4e4-4b6a-9fb0-7760fb55375a": {
+                    "scope": "APP",
+                    "name": "userId",
+                    "screenId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef"
+                },
+                "6a7faa50-2ee9-442a-bd2e-a213fbd4e5d5": {
+                    "scope": "APP",
+                    "name": "sessionEmail",
+                    "screenId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef"
+                },
+                "3b642895-f9f6-4635-8165-be9bc58c490c": {
+                    "scope": "STORED",
+                    "name": "saveInfo",
+                    "screenId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef"
+                }
+            },
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}

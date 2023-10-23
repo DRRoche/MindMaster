@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "HcpenVMqbPQhOBoPk7EYDacNQ5x1": {
+      "type": "object",
+      "properties": {
+        "cards": {
+          "type": "array",
+          "items": {
+            "type": ["object", "null"],
+            "properties": {
+              "back": {
+                "type": "string"
+              },
+              "front": {
+                "type": "string"
+              }
+            },
+            "required": ["back", "front"],
+            "minItems": 2,
+            "maxItems": 2
+          }
+        },
+        "name": {
+          "type": "string"
+        }
+      },
+      "required": ["cards", "name"]
+    }
+  },
+  "required": ["HcpenVMqbPQhOBoPk7EYDacNQ5x1"]
+}
