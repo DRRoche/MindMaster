@@ -1,4 +1,5 @@
 {
+    "id": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -117,7 +118,7 @@
             "children": [],
             "id": "00021620-55d0-42b0-bcec-0dd16f88bbbd",
             "thunkableVersion": 425,
-            "name": "errorLbl"
+            "name": "errorLoginLbl"
         },
         {
             "type": "Group",
@@ -1103,7 +1104,6 @@
             "name": "bannerLogo"
         }
     ],
-    "id": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef",
     "thunkableVersion": 423,
     "name": "loginScreen"
 }

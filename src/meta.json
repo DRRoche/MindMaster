@@ -8,7 +8,7 @@
                 }
             },
             "assets": {},
-            "backendUpgradeVersion": 22,
+            "backendUpgradeVersion": 23,
             "blockly": {
                 "9cd5c5f7-debc-44fd-a9e0-f55a44082bef": {
                     "xml": "",
@@ -29,6 +29,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "2513bc0a-e243-4b98-92a1-ab28a0d6f444": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -41,6 +51,9 @@
                     },
                     {
                         "id": "aa83e27d-01ef-4d26-bbed-2243d65429d5"
+                    },
+                    {
+                        "id": "2513bc0a-e243-4b98-92a1-ab28a0d6f444"
                     }
                 ]
             },
@@ -65,7 +78,7 @@
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
                 "stripeTestMode": true,
-                "isPublic": true,
+                "isPublic": false,
                 "description": null,
                 "mobileTutorial": null,
                 "pushNotificationAndroidAppId": null,
@@ -109,7 +122,7 @@
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
                 "stripeTestMode": true,
-                "isPublic": true,
+                "isPublic": false,
                 "description": null,
                 "mobileTutorial": null,
                 "pushNotificationAndroidAppId": null,
@@ -178,6 +191,16 @@
                     "scope": "STORED",
                     "name": "saveInfo",
                     "screenId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef"
+                },
+                "0da6c124-3668-490f-a3b3-78be80a39719": {
+                    "scope": "APP",
+                    "name": "isMultiChc",
+                    "screenId": "2513bc0a-e243-4b98-92a1-ab28a0d6f444"
+                },
+                "c8192a77-dc54-4f53-b07e-c92e6732142e": {
+                    "scope": "APP",
+                    "name": "isTrueFalse",
+                    "screenId": "2513bc0a-e243-4b98-92a1-ab28a0d6f444"
                 }
             },
             "defaultDesignerDevice": "PHONE",
