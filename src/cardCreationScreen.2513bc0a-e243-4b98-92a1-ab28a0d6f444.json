@@ -1,4 +1,5 @@
 {
+    "id": "2513bc0a-e243-4b98-92a1-ab28a0d6f444",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -1314,7 +1315,6 @@
             "name": "headerCreateScreenLbl"
         }
     ],
-    "id": "2513bc0a-e243-4b98-92a1-ab28a0d6f444",
     "thunkableVersion": 426,
     "name": "cardCreationScreen"
 }
