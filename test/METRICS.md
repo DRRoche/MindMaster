@@ -7,3 +7,4 @@
 * Metric: Net Promoter Score- After a user uses the app for certain amount of time, the app, Mind Master, will prompt the user with a survey question aksing how likely they would recommend the app to others on a scale of 1-5. We can then store this data in the database to later analyze to determine the net promoter score.  
 * Metric: New Downloads/Accounts- By monitoring new downloads/accounts over a span of time such as a month we can see get an idea of our new user growth.
 * Metric: Repeat logins- By monitoring repeat logins from registered accounts we can gauge user retention.
+* Metric: Surveys - by adding links to surveys on the homepage that would reward you for taking them we can gather data on any topic that we view as most important at the time from UI feedback to what new features should be added
