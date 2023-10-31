@@ -8,3 +8,11 @@ As a group, Mind Master is wondering if users would rather use landscape or port
 
 * Variation: The variation we would like to test is if users like portrait mode or landscape mode better. We would create both variations to send out to our users. We would make all screen in both formats. 
 <img src = "PvL.jpg" width = "250" height = "250">
+
+* A/B Test Name: store layout
+* User Story Number:
+* Metric (from HEART grid): Store ratings
+* Hypothesis:
+Mind Master would like to determine what store layout leads to the most purchases from its users. Should the purchase button be large with small iages to display what you are buying, or should the images be large with small buy buttons. We believe that the layout with that will lead to more purchases is teh larger image with the smaller buttons as users would be more enticed by the dislays of what they could have.
+
+* Experiment: To begin the experimant we would need to create two versions of the in app store. One version with lareg display images that show off what the users could purchse (colored themes as an example). The other version would have a store layout that has large "purchase" buttons and smaller display windows. We would then lanch bother versions with 50% of users getting the large images and teh other 50% getting the large buttons. we would then wait a few days to collect data and after the days have passed we can look at the results. all utrchases would be tracked through thunkable which would make teh comparison easy to make. We would just need to see which of teh two layyouts lead to more in app purchases and then make that version of teh app our main version.
