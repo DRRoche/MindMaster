@@ -39,6 +39,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -54,6 +64,9 @@
                     },
                     {
                         "id": "2513bc0a-e243-4b98-92a1-ab28a0d6f444"
+                    },
+                    {
+                        "id": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b"
                     }
                 ]
             },
@@ -201,6 +214,21 @@
                     "scope": "APP",
                     "name": "isTrueFalse",
                     "screenId": "2513bc0a-e243-4b98-92a1-ab28a0d6f444"
+                },
+                "dcafc6fb-6c34-4b79-919b-083ef61abe68": {
+                    "scope": "APP",
+                    "name": "currentView",
+                    "screenId": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b"
+                },
+                "d6c47f04-277a-4609-943b-509fa005e258": {
+                    "scope": "APP",
+                    "name": "currentDeck",
+                    "screenId": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b"
+                },
+                "1dbcac6a-cfe5-44cf-83c0-33fc00655223": {
+                    "scope": "APP",
+                    "name": "currentCard",
+                    "screenId": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b"
                 }
             },
             "defaultDesignerDevice": "PHONE",
