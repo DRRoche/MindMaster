@@ -229,6 +229,16 @@
                     "scope": "APP",
                     "name": "currentCard",
                     "screenId": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b"
+                },
+                "4e5bf77c-7bf7-4c2b-b3aa-be06a1f12e76": {
+                    "scope": "APP",
+                    "name": "cardNum",
+                    "screenId": "2513bc0a-e243-4b98-92a1-ab28a0d6f444"
+                },
+                "86f21060-3141-4d7b-9cdb-613f8c0ad49a": {
+                    "scope": "APP",
+                    "name": "deckNum",
+                    "screenId": "2513bc0a-e243-4b98-92a1-ab28a0d6f444"
                 }
             },
             "defaultDesignerDevice": "PHONE",
