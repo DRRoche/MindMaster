@@ -73,7 +73,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Mind Master",
+            "projectName": "Mind MasterDev",
             "settings": {
                 "teamId": null,
                 "appName": "MindMaster",
@@ -91,7 +91,7 @@
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
                 "stripeTestMode": true,
-                "isPublic": true,
+                "isPublic": false,
                 "description": null,
                 "mobileTutorial": null,
                 "pushNotificationAndroidAppId": null,
@@ -135,7 +135,7 @@
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
                 "stripeTestMode": true,
-                "isPublic": true,
+                "isPublic": false,
                 "description": null,
                 "mobileTutorial": null,
                 "pushNotificationAndroidAppId": null,
@@ -237,8 +237,13 @@
                 },
                 "86f21060-3141-4d7b-9cdb-613f8c0ad49a": {
                     "scope": "APP",
-                    "name": "deckNum",
+                    "name": "cardPath",
                     "screenId": "2513bc0a-e243-4b98-92a1-ab28a0d6f444"
+                },
+                "065aa0f0-b24f-423b-9518-85a440265f61": {
+                    "scope": "APP",
+                    "name": "deckPath",
+                    "screenId": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b"
                 }
             },
             "defaultDesignerDevice": "PHONE",
