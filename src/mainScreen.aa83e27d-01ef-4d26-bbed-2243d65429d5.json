@@ -348,7 +348,7 @@
             "id": "555401ca-1f88-4c36-b1a8-1ca90a950867",
             "thunkableVersion": 426,
             "bindings": null,
-            "name": "Card_Create_Button2"
+            "name": "Card_Create_Button"
         },
         {
             "type": "Button",
@@ -456,7 +456,7 @@
             "id": "bb3fd51c-6c98-4a90-9caa-d0a280c1bc8e",
             "thunkableVersion": 426,
             "bindings": null,
-            "name": "Quick_Quiz_Button2"
+            "name": "Quick_Quiz_Button"
         },
         {
             "type": "Button",

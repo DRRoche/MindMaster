@@ -1,4 +1,5 @@
 {
+    "id": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -733,7 +734,6 @@
             "name": "deckViewCardLabel"
         }
     ],
-    "id": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b",
     "thunkableVersion": 428,
     "name": "cardDecksScreen"
 }
