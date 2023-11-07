@@ -8,7 +8,7 @@
                 }
             },
             "assets": {
-                "6549322274861008d6979a34": {
+				"6549322274861008d6979a34": {
                     "externalStorageType": "GCS",
                     "_id": "6549322274861008d6979a34",
                     "size": "10115",
@@ -88,7 +88,7 @@
                     "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64ff45868dd71e8e725edcba/projects/653a71ae984a386c95c22ae0/assets/65498e217e205fc052ebc0cd?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231107%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231107T010849Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=1d5e68d1603d4483cb2bf8b87988b8873d316219af5cc956fa8b1a02f7a4617a6d155c7eb3a985fdf634f2eba722b2996dc4142f047b20b5c89bdb6d8e725e392e69ee286eeecd17e49b7a63b185c1e2c04158b9aa329e471b4363c375dccd10c4ad5f0180e45e6280d70064ce2c6f3a49ee9296efc86f656cfd4a86b8330548a8e7076d30dfb331da1d97c2b33d4649cec0fb1fafd188b2a73532c2022a2ab33849942cfb9dd826b7c8ab280c701be050fa330625caac163c1607c682dba88dedcaac22ea973cc7652c5d1a4c1a9357795d983491ba1f06fe58d0addcaac873e5dd55912d89779c81b180b6ba5bed879da89f9d1925ac51a4288ac750136535",
                     "signedUrlExpirationTime": 1699492129473
                 }
-            },
+			},
             "backendUpgradeVersion": 23,
             "blockly": {
                 "9cd5c5f7-debc-44fd-a9e0-f55a44082bef": {
@@ -311,7 +311,6 @@
                     "name": "currentCard",
                     "screenId": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b"
                 },
-
                 "065fa344-dedd-4282-8f6c-8ac5c4d286b0": {
                     "scope": "APP",
                     "name": "currentCards",
@@ -320,7 +319,8 @@
                 "81787941-2ce7-4aaf-9536-4cf93384d5eb": {
                     "scope": "APP",
                     "name": "currentCardIndex",
-
+                    "screenId": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b"
+                },
                 "4e5bf77c-7bf7-4c2b-b3aa-be06a1f12e76": {
                     "scope": "APP",
                     "name": "cardNum",
