@@ -1,4 +1,5 @@
 {
+    "id": "28679a79-77bc-47a6-bf12-4683a92111bb",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -472,7 +473,6 @@
             "name": "Image3"
         }
     ],
-    "id": "28679a79-77bc-47a6-bf12-4683a92111bb",
     "thunkableVersion": 432,
     "name": "deckCreationScreen"
 }
