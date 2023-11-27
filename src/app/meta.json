@@ -140,6 +140,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "28679a79-77bc-47a6-bf12-4683a92111bb": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -161,6 +171,9 @@
                     },
                     {
                         "id": "458d25f5-fe33-4ee5-bfd6-851d9a1eccd9"
+                    },
+                    {
+                        "id": "28679a79-77bc-47a6-bf12-4683a92111bb"
                     }
                 ]
             },
