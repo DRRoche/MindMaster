@@ -30,7 +30,8 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "display": "flex"
+            "display": "flex",
+            "backgroundColor": "rgba(117, 12, 138, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -52,7 +53,8 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {}
+        "tabNavigationOptions": {},
+        "BackgroundColor": "rgba(117, 12, 138, 1)"
     },
     "children": [
         {
@@ -64,7 +66,7 @@
                 "FontSize": 18,
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(0, 0, 0, 1)",
+                "Color": "rgba(255, 255, 255, 1)",
                 "TextAlign": "center",
                 "Height": 76,
                 "Width": 375,
@@ -75,7 +77,7 @@
                 "RelativeY": 591.9921875,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(0, 0, 0, 1)",
+                    "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
@@ -127,10 +129,10 @@
             "translatedName": "Button",
             "properties": {
                 "Text": "Cancel",
-                "TextColor": "#FFFFFF",
+                "TextColor": "rgba(117, 12, 138, 1)",
                 "FontSize": 16,
                 "CustomFont": "",
-                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "BackgroundColor": "rgba(248, 231, 28, 1)",
                 "Height": 49,
                 "Width": 311,
                 "Visible": true,
@@ -180,10 +182,10 @@
             "translatedName": "Button",
             "properties": {
                 "Text": "Create Deck",
-                "TextColor": "#FFFFFF",
+                "TextColor": "rgba(117, 12, 138, 1)",
                 "FontSize": 16,
                 "CustomFont": "",
-                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "BackgroundColor": "rgba(248, 231, 28, 1)",
                 "Height": 49,
                 "Width": 311,
                 "Visible": true,
@@ -301,7 +303,7 @@
                 "FontSize": 18,
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(0, 0, 0, 1)",
+                "Color": "rgba(255, 255, 255, 1)",
                 "TextAlign": "center",
                 "Height": 28,
                 "Width": 313,
@@ -312,7 +314,7 @@
                 "RelativeY": 240,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(0, 0, 0, 1)",
+                    "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
@@ -360,6 +362,53 @@
             "name": "deckNameLbl"
         },
         {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "Mind Master_v2-1000x500.png",
+                "resizeMode": "stretch",
+                "Height": 100,
+                "Width": 200,
+                "Visible": true,
+                "X": 86,
+                "Y": 12,
+                "RelativeX": 86,
+                "RelativeY": 12,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "18.8%",
+                    "top": "3.7692091454272862%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef",
+                "position": "absolute",
+                "edgeOffsets": 12
+            },
+            "children": [],
+            "id": "6f7af02a-47e0-483b-8166-1c865154f6a2",
+            "thunkableVersion": 433,
+            "bindings": null,
+            "name": "deckCreationBannerLogo"
+        },
+        {
             "type": "Label",
             "translatedName": "Label",
             "reactType": "Text",
@@ -368,7 +417,7 @@
                 "FontSize": 27,
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(0, 0, 0, 1)",
+                "Color": "rgba(255, 255, 255, 1)",
                 "TextAlign": "center",
                 "Height": 45,
                 "Width": 311,
@@ -379,7 +428,7 @@
                 "RelativeY": 129,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(0, 0, 0, 1)",
+                    "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 27,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
@@ -424,53 +473,7 @@
             "children": [],
             "id": "2dedcf70-510c-4172-a1b1-66832bb9560c",
             "thunkableVersion": 432,
-            "name": "Label3"
-        },
-        {
-            "type": "Image",
-            "translatedName": "Image",
-            "properties": {
-                "resizeMode": "stretch",
-                "Height": 86,
-                "Width": 332,
-                "Visible": true,
-                "X": 22,
-                "Y": 12,
-                "RelativeX": 22,
-                "RelativeY": 12,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "2.8191828182200607%",
-                    "top": "1.1633271647625174%",
-                    "display": "flex"
-                },
-                "capInsets": {},
-                "ParentId": "458d25f5-fe33-4ee5-bfd6-851d9a1eccd9",
-                "position": "absolute",
-                "edgeOffsets": 12
-            },
-            "children": [],
-            "id": "56dbe304-3f02-4c6e-bf16-374f3a34e50d",
-            "thunkableVersion": 432,
-            "bindings": null,
-            "name": "Image3"
+            "name": "headerDeckCreationLbl"
         }
     ],
     "thunkableVersion": 432,

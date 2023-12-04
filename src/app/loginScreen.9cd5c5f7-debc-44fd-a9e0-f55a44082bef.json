@@ -30,7 +30,8 @@
             "flexDirection": "column",
             "justifyContent": "center",
             "alignItems": "center",
-            "display": "flex"
+            "display": "flex",
+            "backgroundColor": "rgba(117, 12, 138, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -52,7 +53,9 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {}
+        "tabNavigationOptions": {},
+        "Scrollable": true,
+        "BackgroundColor": "rgba(117, 12, 138, 1)"
     },
     "children": [
         {
@@ -64,7 +67,7 @@
                 "FontSize": 18,
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(0, 0, 0, 1)",
+                "Color": "rgba(255, 255, 255, 1)",
                 "Height": 68,
                 "Width": 375,
                 "Visible": true,
@@ -74,7 +77,7 @@
                 "RelativeY": 589,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(0, 0, 0, 1)",
+                    "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
@@ -158,7 +161,7 @@
                         "FontSize": 18,
                         "CustomFont": "",
                         "LineHeight": 1,
-                        "Color": "rgba(0, 0, 0, 1)",
+                        "Color": "rgba(255, 255, 255, 1)",
                         "Height": 28,
                         "Width": 128,
                         "Visible": true,
@@ -168,7 +171,7 @@
                         "RelativeY": 10,
                         "ResizeMode": "STRETCH",
                         "style": {
-                            "color": "rgba(0, 0, 0, 1)",
+                            "color": "rgba(255, 255, 255, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
                             "textShadowOffset": {},
@@ -352,7 +355,7 @@
                         "FontSize": 18,
                         "CustomFont": "",
                         "LineHeight": 1,
-                        "Color": "rgba(0, 0, 0, 1)",
+                        "Color": "rgba(255, 255, 255, 1)",
                         "Height": 28,
                         "Width": 65,
                         "Visible": true,
@@ -362,7 +365,7 @@
                         "RelativeY": 26,
                         "ResizeMode": "STRETCH",
                         "style": {
-                            "color": "rgba(0, 0, 0, 1)",
+                            "color": "rgba(255, 255, 255, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
                             "textShadowOffset": {},
@@ -482,7 +485,7 @@
                         "FontSize": 18,
                         "CustomFont": "",
                         "LineHeight": 1,
-                        "Color": "rgba(0, 0, 0, 1)",
+                        "Color": "rgba(255, 255, 255, 1)",
                         "Height": 28,
                         "Width": 81,
                         "Visible": true,
@@ -492,7 +495,7 @@
                         "RelativeY": 79,
                         "ResizeMode": "STRETCH",
                         "style": {
-                            "color": "rgba(0, 0, 0, 1)",
+                            "color": "rgba(255, 255, 255, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
                             "textShadowOffset": {},
@@ -698,7 +701,7 @@
                         "FontSize": 18,
                         "CustomFont": "",
                         "LineHeight": 1,
-                        "Color": "rgba(0, 0, 0, 1)",
+                        "Color": "rgba(255, 255, 255, 1)",
                         "Height": 28,
                         "Width": 155,
                         "Visible": true,
@@ -708,7 +711,7 @@
                         "RelativeY": 26,
                         "ResizeMode": "STRETCH",
                         "style": {
-                            "color": "rgba(0, 0, 0, 1)",
+                            "color": "rgba(255, 255, 255, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
                             "textShadowOffset": {},
@@ -771,7 +774,7 @@
                 "FontSize": 18,
                 "CustomFont": "",
                 "LineHeight": 1,
-                "Color": "rgba(0, 0, 0, 1)",
+                "Color": "rgba(255, 255, 255, 1)",
                 "Height": 27,
                 "Width": 144,
                 "Visible": true,
@@ -781,7 +784,7 @@
                 "RelativeY": 429,
                 "ResizeMode": "STRETCH",
                 "style": {
-                    "color": "rgba(0, 0, 0, 1)",
+                    "color": "rgba(255, 255, 255, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
                     "textShadowOffset": {},
@@ -834,10 +837,10 @@
             "translatedName": "Button",
             "properties": {
                 "Text": "Sign in",
-                "TextColor": "#FFFFFF",
+                "TextColor": "rgba(117, 12, 138, 1)",
                 "FontSize": 16,
                 "CustomFont": "",
-                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "BackgroundColor": "rgba(248, 231, 28, 1)",
                 "Height": 49,
                 "Width": 311,
                 "Visible": true,
@@ -881,6 +884,53 @@
             "id": "0993a55a-6b56-47c3-a187-19e87126d8b3",
             "thunkableVersion": 424,
             "name": "signInUpBtn"
+        },
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "Mind Master_v2-1000x500.png",
+                "resizeMode": "stretch",
+                "Height": 100,
+                "Width": 200,
+                "Visible": true,
+                "X": 86,
+                "Y": 12,
+                "RelativeX": 86,
+                "RelativeY": 12,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "18.8%",
+                    "top": "3.7692091454272862%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef",
+                "position": "absolute",
+                "edgeOffsets": 12
+            },
+            "children": [],
+            "id": "df1a9379-ef74-419c-b26d-c54e61f1930f",
+            "thunkableVersion": 433,
+            "bindings": null,
+            "name": "loginBannerLogo"
         },
         {
             "type": "Group",
@@ -984,7 +1034,7 @@
                         "FontSize": 18,
                         "CustomFont": "",
                         "LineHeight": 1,
-                        "Color": "rgba(0, 0, 0, 1)",
+                        "Color": "rgba(255, 255, 255, 1)",
                         "Height": 24,
                         "Width": 80,
                         "Visible": true,
@@ -994,7 +1044,7 @@
                         "RelativeY": 61,
                         "ResizeMode": "STRETCH",
                         "style": {
-                            "color": "rgba(0, 0, 0, 1)",
+                            "color": "rgba(255, 255, 255, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
                             "textShadowOffset": {},
@@ -1114,7 +1164,7 @@
                         "FontSize": 18,
                         "CustomFont": "",
                         "LineHeight": 1,
-                        "Color": "rgba(0, 0, 0, 1)",
+                        "Color": "rgba(255, 255, 255, 1)",
                         "Height": 41,
                         "Width": 97,
                         "Visible": true,
@@ -1124,7 +1174,7 @@
                         "RelativeY": 6,
                         "ResizeMode": "STRETCH",
                         "style": {
-                            "color": "rgba(0, 0, 0, 1)",
+                            "color": "rgba(255, 255, 255, 1)",
                             "fontSize": 18,
                             "fontStyle": "normal",
                             "textShadowOffset": {},
@@ -1174,51 +1224,6 @@
             "id": "229b841d-6a8e-4767-af00-9fb71f365ea1",
             "thunkableVersion": 424,
             "name": "signUpGrp"
-        },
-        {
-            "type": "Image",
-            "translatedName": "Image",
-            "properties": {
-                "resizeMode": "stretch",
-                "Height": 90,
-                "Width": 324,
-                "Visible": true,
-                "X": 26,
-                "Y": 10,
-                "RelativeX": 26,
-                "RelativeY": 10,
-                "ResizeMode": "STRETCH",
-                "style": {
-                    "marginTop": 0,
-                    "marginBottom": 0,
-                    "marginLeft": 0,
-                    "marginRight": 0,
-                    "paddingTop": 0,
-                    "paddingBottom": 0,
-                    "paddingLeft": 0,
-                    "paddingRight": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0)",
-                    "shadowOpacity": 0,
-                    "scaledShadowOpacity": 0,
-                    "shadowRadius": 0,
-                    "shadowOffset": {
-                        "width": 0,
-                        "height": 0
-                    },
-                    "position": "absolute",
-                    "left": "18.8%",
-                    "top": "3.7692091454272862%",
-                    "display": "flex"
-                },
-                "capInsets": {},
-                "ParentId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef",
-                "position": "absolute",
-                "edgeOffsets": 10.999999999999998
-            },
-            "children": [],
-            "id": "c2d25af9-fcd5-446f-8dbd-0c8359f7bdf1",
-            "thunkableVersion": 424,
-            "name": "bannerLogo"
         }
     ],
     "thunkableVersion": 423,
