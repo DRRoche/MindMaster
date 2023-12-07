@@ -453,12 +453,14 @@
                             "left": "4.133333333333334%",
                             "top": "41.618253373313344%",
                             "lineHeight": 1,
-                            "display": "flex"
+                            "display": "flex",
+                            "textAlign": "right"
                         },
                         "ParentId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef",
                         "position": "absolute",
                         "edgeOffsets": 133,
-                        "children": "Email: "
+                        "children": "Email: ",
+                        "TextAlign": "right"
                     },
                     "children": [],
                     "id": "583e3b2e-ec8f-49d3-aeab-12bc08242129",
