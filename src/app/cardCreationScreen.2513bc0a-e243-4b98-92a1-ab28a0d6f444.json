@@ -381,7 +381,7 @@
             "id": "bdfa4cf5-73dc-4505-88e7-8bde74c53592",
             "thunkableVersion": 428,
             "bindings": null,
-            "name": "Re_MainScreen_Btn"
+            "name": "returnMainScreenBtn"
         },
         {
             "type": "Button",
