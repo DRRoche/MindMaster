@@ -253,18 +253,18 @@
                     "translatedName": "Label",
                     "reactType": "Text",
                     "properties": {
-                        "Text": "Choose a deck for quiz",
+                        "Text": "Choose a deck for your quiz",
                         "FontSize": 27,
                         "CustomFont": "",
                         "LineHeight": 1,
                         "Color": "rgba(255, 255, 255, 1)",
                         "TextAlign": "center",
                         "Height": 45,
-                        "Width": 311,
+                        "Width": 360,
                         "Visible": true,
-                        "X": 30,
+                        "X": 7,
                         "Y": 214,
-                        "RelativeX": 30,
+                        "RelativeX": 7,
                         "RelativeY": 20,
                         "ResizeMode": "STRETCH",
                         "style": {
@@ -308,7 +308,7 @@
                         "ParentId": "763c2d04-eee2-49ad-ae5b-713ec4352ac2",
                         "position": "absolute",
                         "edgeOffsets": 214,
-                        "children": "Choose a deck for quiz"
+                        "children": "Choose a deck for your quiz"
                     },
                     "children": [],
                     "id": "434a92a4-90a6-45d9-997a-c34faac23614",
