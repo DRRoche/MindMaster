@@ -54,7 +54,8 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {}
+        "tabNavigationOptions": {},
+        "Scrollable": true
     },
     "children": [
         {
@@ -202,12 +203,12 @@
                 "FontSize": 16,
                 "CustomFont": "",
                 "BackgroundColor": "rgba(248, 231, 28, 1)",
-                "Height": 32,
-                "Width": 96,
+                "Height": 40,
+                "Width": 90,
                 "Visible": true,
-                "X": 218,
+                "X": 213,
                 "Y": 172,
-                "RelativeX": 218,
+                "RelativeX": 213,
                 "RelativeY": 172,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -239,7 +240,7 @@
                 "Disabled": false,
                 "ParentId": "041c6af7-bfb1-4cb1-b995-8a1afa801186",
                 "position": "absolute",
-                "edgeOffsets": 172
+                "edgeOffsets": 172.00000000000003
             },
             "children": [],
             "id": "ee5a60e5-6505-434a-a9d9-38f3d6192a13",
@@ -255,8 +256,8 @@
                 "FontSize": 16,
                 "CustomFont": "",
                 "BackgroundColor": "rgba(248, 231, 28, 1)",
-                "Height": 32,
-                "Width": 96,
+                "Height": 40,
+                "Width": 90,
                 "Visible": true,
                 "X": 73,
                 "Y": 172,
@@ -572,13 +573,13 @@
                 "LineHeight": 1,
                 "Color": "rgba(255, 255, 255, 1)",
                 "TextAlign": "center",
-                "Height": 45,
+                "Height": 30,
                 "Width": 311,
                 "Visible": true,
-                "X": 32,
-                "Y": 108,
-                "RelativeX": 32,
-                "RelativeY": 108,
+                "X": 30,
+                "Y": 117,
+                "RelativeX": 30,
+                "RelativeY": 117,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(255, 255, 255, 1)",
@@ -620,7 +621,7 @@
                 },
                 "ParentId": "041c6af7-bfb1-4cb1-b995-8a1afa801186",
                 "position": "absolute",
-                "edgeOffsets": 108.99999999999997,
+                "edgeOffsets": 117,
                 "children": "Edit Card"
             },
             "children": [],
@@ -634,12 +635,12 @@
             "properties": {
                 "Picture": "Mind Master_v2-1000x500.png",
                 "resizeMode": "stretch",
-                "Height": 73,
-                "Width": 146,
+                "Height": 100,
+                "Width": 200,
                 "Visible": true,
-                "X": 113,
+                "X": 86,
                 "Y": 12,
-                "RelativeX": 113,
+                "RelativeX": 86,
                 "RelativeY": 12,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -667,7 +668,7 @@
                 "capInsets": {},
                 "ParentId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef",
                 "position": "absolute",
-                "edgeOffsets": 12.999999999999998
+                "edgeOffsets": 12
             },
             "children": [],
             "id": "8ef7438b-6ce8-4f40-bdd5-33280fdb103c",
