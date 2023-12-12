@@ -214,6 +214,16 @@
                     "enabledFeatures": {
                         "iap": false
                     }
+                },
+                "041c6af7-bfb1-4cb1-b995-8a1afa801186": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -238,6 +248,9 @@
                     },
                     {
                         "id": "28679a79-77bc-47a6-bf12-4683a92111bb"
+                    },
+                    {
+                        "id": "041c6af7-bfb1-4cb1-b995-8a1afa801186"
                     }
                 ]
             },
@@ -490,6 +503,16 @@
                     "scope": "APP",
                     "name": "itemToDelete",
                     "screenId": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b"
+                },
+                "7c9845eb-53e4-476d-9159-8ce08ed08415": {
+                    "scope": "APP",
+                    "name": "cardQuestionType",
+                    "screenId": "b1a6bfca-d2b0-4326-8c7c-12e6cea2d02b"
+                },
+                "06f60744-6556-43bc-9cc4-72e91b986f0c": {
+                    "scope": "APP",
+                    "name": "questionTypeAnswer",
+                    "screenId": "041c6af7-bfb1-4cb1-b995-8a1afa801186"
                 }
             },
             "defaultDesignerDevice": "PHONE",

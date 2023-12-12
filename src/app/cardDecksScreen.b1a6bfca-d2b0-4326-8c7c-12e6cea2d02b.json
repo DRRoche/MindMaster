@@ -276,7 +276,7 @@
                 "BackgroundColor": "rgba(93, 122, 252, 100)",
                 "Height": 37,
                 "Width": 70,
-                "Visible": false,
+                "Visible": true,
                 "X": 196,
                 "Y": 608,
                 "RelativeX": 196,
@@ -303,7 +303,7 @@
                     "position": "absolute",
                     "left": "37.46666666666667%",
                     "top": "88.69471514242879%",
-                    "display": "none"
+                    "display": "flex"
                 },
                 "FontBold": false,
                 "FontItalic": false,
@@ -329,7 +329,7 @@
                 "BackgroundColor": "rgba(93, 122, 252, 100)",
                 "Height": 37,
                 "Width": 70,
-                "Visible": false,
+                "Visible": true,
                 "X": 11,
                 "Y": 608,
                 "RelativeX": 11,
@@ -356,7 +356,7 @@
                     "position": "absolute",
                     "left": "1.4666666666666666%",
                     "top": "87.49531484257871%",
-                    "display": "none"
+                    "display": "flex"
                 },
                 "FontBold": false,
                 "FontItalic": false,
@@ -382,7 +382,7 @@
                 "BackgroundColor": "rgba(93, 122, 252, 100)",
                 "Height": 37,
                 "Width": 70,
-                "Visible": false,
+                "Visible": true,
                 "X": 281,
                 "Y": 608,
                 "RelativeX": 281,
@@ -409,7 +409,7 @@
                     "position": "absolute",
                     "left": "35.333333333333336%",
                     "top": "84.49681409295353%",
-                    "display": "none"
+                    "display": "flex"
                 },
                 "FontBold": false,
                 "FontItalic": false,
@@ -485,7 +485,7 @@
             "properties": {
                 "Height": 493,
                 "Width": 357,
-                "Visible": true,
+                "Visible": false,
                 "X": 7,
                 "Y": 157,
                 "RelativeX": 7,
@@ -501,7 +501,7 @@
                     "position": "absolute",
                     "left": "28.933333333333334%",
                     "top": "40.929535232383806%",
-                    "display": "flex",
+                    "display": "none",
                     "borderColor": "rgba(74, 144, 226, 1)",
                     "borderWidth": 2,
                     "borderStyle": "solid"
