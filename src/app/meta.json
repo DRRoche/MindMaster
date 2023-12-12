@@ -149,7 +149,6 @@
                     "createdAt": "2023-12-04T14:27:54.020Z",
                     "updatedAt": "2023-12-04T14:27:54.020Z",
                     "__v": 0,
-
                     "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f711bce0fc7e4850300c2c/projects/653bb64d9de17f8f8b322bc8/assets/656de1e94781b1b35593f695?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231212%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231212T191544Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5f2fb9bb9ad72a4ec5b99a57bc014b0dcc540e76c93cdf35b4ca0353dfa1fb7b63339ac6f867863bc1b053608dec7eb79ab4a4dd3d97969320217c7c8a247608a16bb2712ce62426d92ccb2afdc33f64a4bf2c35e018dd5e17a7b1a352c4613d48fb662b85fd185faf08fac0fb8f4f32d0580dd1ee81ec8c26a46ae2a71c1d5342cbc41222537ebc242f41b68ff88f27b6e1dd070efdc0731c1f17df279d37514708e48f630161485aaebfa0af0823d5aec1c45648f1ea0108d9022e6d0f7f6008fb355653f5c5d5a7610ed7b60cae993f8ed2460a81bcf38ce9d982753f0b959fa94bb4c3249ac0e10bdd19582de6732256df94cb30789d0855f1c84f03e5c5",
                     "signedUrlExpirationTime": 1702581344180
                 }
@@ -498,7 +497,6 @@
                     "name": "showPassword",
                     "screenId": "9cd5c5f7-debc-44fd-a9e0-f55a44082bef"
                 },
-
                 "b9f5fe29-5823-40b8-a87c-a2f345999007": {
                     "scope": "APP",
                     "name": "quizDeck",
