@@ -1,4 +1,5 @@
 {
+    "id": "041c6af7-bfb1-4cb1-b995-8a1afa801186",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -675,7 +676,6 @@
             "name": "cardEditBannerLogo"
         }
     ],
-    "id": "041c6af7-bfb1-4cb1-b995-8a1afa801186",
     "thunkableVersion": 435,
     "name": "cardEditScreen"
 }
