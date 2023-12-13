@@ -204,10 +204,10 @@
                 "Height": 40,
                 "Width": 150,
                 "Visible": true,
-                "X": 195,
-                "Y": 550,
-                "RelativeX": 195,
-                "RelativeY": 550,
+                "X": 193,
+                "Y": 536,
+                "RelativeX": 193,
+                "RelativeY": 536,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -238,7 +238,7 @@
                 "Disabled": false,
                 "ParentId": "aa83e27d-01ef-4d26-bbed-2243d65429d5",
                 "position": "absolute",
-                "edgeOffsets": 592
+                "edgeOffsets": 536
             },
             "children": [],
             "id": "62484745-3084-403d-9d66-be061719464a",
@@ -259,9 +259,9 @@
                 "Width": 150,
                 "Visible": true,
                 "X": 30,
-                "Y": 550,
+                "Y": 536,
                 "RelativeX": 30,
-                "RelativeY": 550,
+                "RelativeY": 536,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -292,7 +292,7 @@
                 "Disabled": false,
                 "ParentId": "aa83e27d-01ef-4d26-bbed-2243d65429d5",
                 "position": "absolute",
-                "edgeOffsets": 550
+                "edgeOffsets": 536
             },
             "children": [],
             "id": "f8aa3c84-5189-45df-a0e7-81bc97dde928",
